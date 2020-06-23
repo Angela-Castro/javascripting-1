@@ -26,6 +26,7 @@ Utiliza estos pasos para solucionarlo:
 1. En la consola escribimos Set-ExecutionPolicy Unrestricted, le damos enter
 1. Cuando nos deje escribir de nuevo nos va a pedir que confirmemos, le ponemos una ```S``` y le damos enter. De esta manera habilitamos la ejecución de los scripts
 1. Una vez terminado todos los pasos anteriores ya podemos cerrar windows powerShell
+
 Ahora si en la terminal nos va a dejar ejecutar todos los comandos del curso.
 
 ## Instala Node.js
