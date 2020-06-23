@@ -1,66 +1,66 @@
 # JAVASCRIPTING
 
-> Learn JavaScript by adventuring around in the terminal.  
+> Aprende JavaScript con aventuras en la terminal.
 
-> _Looking for more interactive tutorials like this? Go to [nodeschool.io](http://nodeschool.io)._
+> _¿Buscas mas tutoriales interactivos como estos? Visita [nodeschool.io](http://nodeschool.io)._
 
-## Get help
-Having issues with javascripting? Get help troubleshooting in the [nodeschool discussions repo](https://github.com/nodeschool/discussions),
-on [gitter](https://gitter.im/nodeschool/discussions) or in [repository issues](https://github.com/workshopper/javascripting/issues)
+## Obtén ayuda
+¿Tienes problemas con javascripting? Obtén ayuda para la resolución de problemas en el [repo de discusiones nodeschool](https://github.com/nodeschool/discussions),
+en [gitter](https://gitter.im/nodeschool/discussions) o en [repository issues](https://github.com/workshopper/javascripting/issues)
 
-Also, take a look into our [troubleshooting documentation](https://github.com/workshopper/javascripting/blob/master/TROUBLESHOOTING.md)
+Ademas, echa un vistazo a nuestra [documentación de solución de problemas](https://github.com/workshopper/javascripting/blob/master/TROUBLESHOOTING.md)
 
-## Install Node.js
+## Instala Node.js
 
-Make sure Node.js is installed on your computer.
+Asegurate que Node.js está instalado en tu computadora.
 
-Install it from [nodejs.org](https://nodejs.org/)
+Instala esto desde [nodejs.org](https://nodejs.org/)
 
-### Install `javascripting` with `npm`
+### Instala `javascripting` con `npm`
 
-Open your terminal and run this command:
+Abre tu terminal y ejecuta este comando:
 
 ```
 npm install -g javascripting
 ```
 
-The `-g` option installs this module globally so that you can run it as a command in your terminal.
+La opción `-g` instala este modulo globalmente para que puedas ejecutarlo como un comando en tu terminal.
 
-## Run the workshop
+## Ejecuta el workshop
 
-Open your terminal and run the following command:
+Abre tu terminal y ejecuta el siguiente comando:
 
 ```
 javascripting
 ```
 
-You'll see the menu:
+Verás el menú:
 
 ![javascripting screenshot](screenshot.png)
 
-Navigate the menu with the up & down arrow keys. 
+Naviga por el menu con las flechas de arriba & abajo. 
 
-Choose a challenge by hitting enter.
+Escoge un reto al presionar enter.
 
-### Take a look at this gif that shows the first challenge:
+### Echa un vistazo a este gif que muestra el primer desafío:
 
 ![first challenge](javascripting.gif)
 
-In the gif I'm using the command line editor `nano` ([here are some basic usage tips for nano](https://github.com/sethvincent/dev-envs-book/blob/master/chapters/05-editors.md#nano)).  
+En el gif yo estoy usando el editor de linea de comandos `nano` ([aquí hay algunos consejos básicos de uso para nano](https://github.com/sethvincent/dev-envs-book/blob/master/chapters/05-editors.md#nano)).  
 
-You can use any editor you like. 
+Tu puedes usar cualquier editor que tu prefieras.
 
-[atom](http://atom.io) or [brackets](http://brackets.io/) are both good options.
+[atom](http://atom.io) o [vs code](https://code.visualstudio.com/) son ambas buenas opciones.
 
-## Need help with an exercise?
+## ¿Necesitas ayuda con algún ejercicio?
 
-Open an issue in the [nodeschool/discussions repo](https://github.com/nodeschool/discussions)
+Abre un issue en el [nodeschool/discussions repo](https://github.com/nodeschool/discussions)
 
-Include the name `javascripting` and the name of the challenge you're working on in the title of the issue.
+Incluye el nombre `javascripting` y el nombre de el reto en el que estas trabajando en el titulo del issue.
 
-## Get Involved
+## Involúcrate
 
-Code contributions welcome! Please check our [documentation on contributing](https://github.com/workshopper/javascripting/blob/master/CONTRIBUTING.md) to get started.
+¡Bienvenidas las contribuciones de codigo! Por favor revisa la [documentacion en contribuciones](https://github.com/workshopper/javascripting/blob/master/CONTRIBUTING.md) para iniciar.
 
 ## License
 
