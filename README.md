@@ -10,6 +10,24 @@ en [gitter](https://gitter.im/nodeschool/discussions) o en [repository issues](h
 
 Ademas, echa un vistazo a nuestra [documentación de solución de problemas](https://github.com/workshopper/javascripting/blob/master/TROUBLESHOOTING.md)
 
+## Problema comun en Windows
+Para las que usan windows este es un problema que surge muy seguido:
+
+```
+javascripting : No se puede cargar el archivo C:\Users\Marcela
+Gonzalez\AppData\Roaming\npm\javascripting.ps1 porque la ejecución de scripts está deshabilitada
+en este sistema. Para obtener más información, consulta el tema about_Execution_Policies en
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+```
+
+Utiliza estos pasos para solucionarlo:
+
+1. En windows apretamos inicio y buscamos windows powershell, le damos click derecho y lo abrimos como administrador 
+1. En la consola escribimos Set-ExecutionPolicy Unrestricted, le damos enter
+1. Cuando nos deje escribir de nuevo nos va a pedir que confirmemos, le ponemos una ```S``` y le damos enter. De esta manera habilitamos la ejecución de los scripts
+1. Una vez terminado todos los pasos anteriores ya podemos cerrar windows powerShell
+Ahora si en la terminal nos va a dejar ejecutar todos los comandos del curso.
+
 ## Instala Node.js
 
 Asegurate que Node.js está instalado en tu computadora.
